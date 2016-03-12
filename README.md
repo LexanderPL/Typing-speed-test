@@ -1,2 +1,2 @@
 # Typing-speed-test
-How fast are you typing on your keyboard? Let's check this out using your example text file to write
+Program mierzący szybkość wpisywania przez użytkownika tekstu pobieranego z pliku. Program generuje statystyki, wyświetla je na ekranie i zapisuje je do pliku.
